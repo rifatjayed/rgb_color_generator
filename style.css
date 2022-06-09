@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+    height: 100vh;
+    width: 100vw;
+  
+}
+.container{
+    width: 100%;
+    height: 100%;
+      display: flex;
+      flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    margin: 15px;
+    background-color: blueviolet;
+}
